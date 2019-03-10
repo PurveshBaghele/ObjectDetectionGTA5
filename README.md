@@ -4,3 +4,6 @@ Implemented object detection using Tensorflow's object detection API and used it
 The only code needed is in grabscreen.py and vehicleDetection.py .
 For the rest of the part, follow the instructions from https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
 and place the grabscreen.py and vehicleDetection.py files in research\object_detection directory.
+
+![GIF1](https://user-images.githubusercontent.com/38715446/54090873-db9e7700-439e-11e9-8056-ccab8b2f78c1.gif)
+
