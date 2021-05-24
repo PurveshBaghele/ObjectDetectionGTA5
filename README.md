@@ -13,6 +13,6 @@ and place the grabscreen.py and vehicleDetection.py files in research\object_det
 SelfDrive.py file in Behavioral Cloning folder is unsed to train a Convolutional neural net with the training images acquired from Udacity's self-driving car simulator.
 The model is then saved with the name model3.h5 and is then used by drive.py to connect the simulator to the model.
 
-Now, the simulator sends frames to drive.py which in turn return the correct steering angle as an output from the model and then the car drives accordingly.
+Now, the simulator sends frames to drive.py which in turn returns the correct steering angle as an output from the model and then the car drives accordingly.
 
 
